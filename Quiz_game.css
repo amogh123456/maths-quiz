@@ -1,0 +1,73 @@
+body
+{
+	background: orange;
+}
+#design{
+	text-align: center;
+	 background-image: url("u8DUY9.jpg");
+	 height: 500px;
+	 width: 1100px;
+}
+	#a{
+		font-size: 100;
+	}
+	#b{
+		font-size: 100;
+	}
+h3{
+    /* font-size: 80px; */
+    line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300;
+    color: aqua;
+}
+h1{
+	font-size: 100px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color:lightgreen;
+}
+h4{
+	font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: yellow;
+}
+
+h5{
+	font-size: 30px;
+	color: darkgreen;
+}
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
